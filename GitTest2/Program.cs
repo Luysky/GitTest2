@@ -10,7 +10,7 @@ namespace GitTest2
 
             Console.WriteLine("Hello");
 
-            Console.WriteLine("Fuck");
+            Console.WriteLine("Yes");
         }
     }
 }
